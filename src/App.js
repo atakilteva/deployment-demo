@@ -6,14 +6,11 @@ function App() {
     
     <div className="App">
       <div className='header'>
-      <h1>Home</h1>
-      </div>
-      <div className='header'>
+      <h1>Home</h1> 
       <h1>About</h1>
-      </div>
-      <div className='header'>
       <h1>Contact</h1>
       </div>
+      
       <header className="App-header">
 
         <img src={logo} className="App-logo" alt="logo" />

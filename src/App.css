@@ -38,4 +38,5 @@
 }
 .header{
   display: flex;
+  text-align: justify;
 }

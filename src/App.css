@@ -38,5 +38,5 @@
 }
 .header{
   display: flex;
-  text-align: justify;
+  justify-content: space-between
 }

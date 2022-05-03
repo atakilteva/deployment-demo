@@ -5,13 +5,13 @@ function App() {
   return (
     
     <div className="App">
-      <div>
+      <div className='header'>
       <h1>Home</h1>
       </div>
-      <div>
+      <div className='header'>
       <h1>About</h1>
       </div>
-      <div>
+      <div className='header'>
       <h1>Contact</h1>
       </div>
       <header className="App-header">

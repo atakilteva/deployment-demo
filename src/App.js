@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         React Deployment is happing!
+         React Deployment is changing!
         </p>
         <a
           className="App-link"
